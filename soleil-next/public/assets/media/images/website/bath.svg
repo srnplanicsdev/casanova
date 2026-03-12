@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25.484" height="22.661" viewBox="0 0 25.484 22.661">
+    <defs>
+        <clipPath id="iyeom7304a">
+            <path data-name="Rectángulo 3309" style="fill:none;stroke:#272727" d="M0 0h25.484v22.661H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="Grupo 9488">
+        <g data-name="Grupo 6410">
+            <g data-name="Grupo 6409" style="clip-path:url(#iyeom7304a)">
+                <path data-name="Trazado 10075" d="M20.035 20.543H5.543a3 3 0 0 1-2.977-2.6l-.674-5.033h21.794l-.675 5.034a3 3 0 0 1-2.976 2.599z" transform="translate(-.047 -.322)" style="stroke-linecap:round;stroke-linejoin:round;fill:none;stroke:#272727"/>
+                <path data-name="Trazado 10076" d="M23.613 12.835H1.9a1.36 1.36 0 1 1-.07-2.719h21.783a1.36 1.36 0 1 1 .07 2.719z" transform="translate(-.012 -.253)" style="stroke-linecap:round;stroke-linejoin:round;fill:none;stroke:#272727"/>
+                <path data-name="Trazado 10077" d="M6.555 22.692s0-1.953 1.012-1.953" transform="translate(-.164 -.518)" style="stroke-linecap:round;stroke-linejoin:round;fill:none;stroke:#272727"/>
+                <path data-name="Trazado 10078" d="M19.2 22.692s0-1.953-1.011-1.953" transform="translate(-.454 -.518)" style="stroke-linecap:round;stroke-linejoin:round;fill:none;stroke:#272727"/>
+                <path data-name="Trazado 10079" d="M2.849 9.985a4.082 4.082 0 0 1 7.657-2.741 3.787 3.787 0 0 1 4.781 2.414c.035.107.065.216.092.327" transform="translate(-.068 -.121)" style="stroke-linecap:round;stroke-linejoin:round;fill:none;stroke:#272727"/>
+                <circle data-name="Elipse 556" cx="2.129" cy="2.129" transform="translate(8.896 .488)" style="stroke-linecap:round;stroke-linejoin:round;fill:none;stroke:#272727" r="2.129"/>
+                <circle data-name="Elipse 557" cx="1.303" cy="1.303" transform="translate(14.886 4.747)" style="stroke-linecap:round;stroke-linejoin:round;fill:none;stroke:#272727" r="1.303"/>
+                <path data-name="Trazado 10080" d="M18.191 2.333A1.833 1.833 0 0 1 20.024.5h1.011a1.833 1.833 0 0 1 1.832 1.833v7.544" transform="translate(-.454 -.012)" style="stroke-linecap:round;stroke-linejoin:round;fill:none;stroke:#272727"/>
+            </g>
+        </g>
+    </g>
+</svg>

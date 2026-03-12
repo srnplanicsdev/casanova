@@ -1,0 +1,87 @@
+i have created store for whe
+
+
+I have set up the Pinia store to manage the typing test state, including words, user input, timer, and test metrics. [Done]
+I have imported and loaded words data from a JSON file to provide a pool of words for the typing test. [Done]
+I have implemented a function to generate a randomized set of words for each test session to ensure variety. [Done]
+I have created a start test function that initializes the timer, resets metrics, and begins tracking user typing. [Done]
+I have implemented an end test function that stops the timer, finalizes the test, and calculates the results. [Done]
+I have added a reset test function that clears user input, regenerates words, and resets all metrics for a new attempt. [Done]
+I have handled user input updates in real-time and dynamically started the test as soon as the user begins typing. [Done]
+I have implemented space key handling to move between words, update the current word index, and reset the character index. [Done]
+I have calculated typing results, including words per minute (WPM), typing accuracy, and the total number of errors. [Done]
+I have tracked the current word index and character index to highlight the active typing position accurately in the UI. [Done]
+I have added dynamic character styling to visually indicate correct, incorrect, and upcoming letters while typing. [Done]
+I have implemented a check for incorrectly typed words and applied error styling to highlight mistakes. [Done]
+I have added the ability to set the test duration to 15, 30, or 60 seconds, allowing flexible practice sessions. [Done]
+I have implemented a restart function that resets the test state and metrics and focuses the typing input automatically. [Done]
+I have ensured the typing input stays focused on user clicks or key presses to provide a smooth typing experience. [Done]
+I have added global key handling to restart the test using the Tab key and maintain input focus during typing. [Done]
+I have used the mounted lifecycle hook to generate initial words, attach key listeners, and set focus on the typing input. [Done]
+I have used the unmounted lifecycle hook to remove global key listeners when the component is destroyed. [Done]
+I have rendered words and characters in the template with dynamic highlighting and a blinking cursor to show typing position. [Done]
+I have displayed the test results section with WPM, accuracy, and errors after the test is completed. [Done]
+I have added smooth animations and styling for the results panel, correct/incorrect words, and the blinking cursor effect. [Done]
+I have implemented live updating of time left, WPM, and accuracy during the test for real-time feedback. [Done]
+
+
+
+
+
+
+1. Persistent User Data / Profiles
+Why: Mid-level projects often involve user-specific data.
+Implementation Ideas:
+Add user login / registration (can use Firebase Auth or mock JSON for now).
+Save test history (WPM, accuracy, date/time).
+Allow user profiles with stats visualization (best score, average WPM, improvement over time).
+
+2. Backend Integration
+Why: Projects that connect to an API or database show full-stack thinking.
+Implementation Ideas:
+Use Firebase / Supabase / Node.js + Express + MongoDB to store user results.
+Fetch words dynamically from the server instead of a static JSON file.
+Implement leaderboards for top typing scores.
+
+3. Advanced Typing Features
+Why: Adds complexity and realistic typing test behavior.
+Implementation Ideas:
+Mistake highlighting per character with autocorrection suggestions.
+Add backspace tracking and penalty for errors to WPM calculation.
+Support multiple languages or custom word sets.
+Add typing modes: timed test, custom word count, or practice mode.
+
+4. Analytics & Charts
+Why: Mid-level apps often visualize data.
+Implementation Ideas:
+Use Chart.js / ApexCharts / D3.js to show:
+Accuracy over time
+WPM trends
+Error distribution
+Show graphs per session and cumulative stats.
+
+5. Improved UI/UX
+Why: Mid-level apps demonstrate polish and responsive design.
+Implementation Ideas:
+Add responsive design for mobile users.
+Use animations for results, cursor, and error feedback.
+Add themes (dark/light) and font selection.
+Add sound effects or visual cues for mistakes or milestones.
+
+6. Component & Code Architecture
+
+Why: Mid-level projects show modular, maintainable code.
+Implementation Ideas:
+Break the app into smaller components:
+TypingArea.vue
+ResultsPanel.vue
+Timer.vue
+WordDisplay.vue
+Use Pinia modules if the app grows: separate stores for user, test, and settings.
+Add unit tests with Vue Test Utils / Jest for key functions (e.g., WPM calculation, accuracy).
+
+7. Optional Extra Features
+Real-time multiplayer typing race using WebSockets.
+Achievements / badges for milestones (e.g., 100 WPM, 100% accuracy).
+Offline mode with service workers and local storage.
+Keyboard layouts / typing practice lessons.

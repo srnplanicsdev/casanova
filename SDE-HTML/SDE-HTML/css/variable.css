@@ -1,0 +1,113 @@
+@import url(https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@0;1&family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap);
+
+:root {
+    --bs-blue: #0d6efd;
+    --bs-indigo: #6610f2;
+    --bs-purple: #6f42c1;
+    --bs-pink: #d63384;
+    --bs-red: #dc3545;
+    --bs-orange: #fd7e14;
+    --bs-yellow: #ffc107;
+    --bs-green: #198754;
+    --bs-teal: #20c997;
+    --bs-cyan: #0dcaf0;
+    --bs-white: #fff;
+    --bs-gray: #6c757d;
+    --bs-gray-dark: #343a40;
+    --bs-primary: #c1a664;
+    --bs-secondary: #272727;
+    --bs-success: #4ac14b;
+    --bs-info: #0dcaf0;
+    --bs-warning: #ffc107;
+    --bs-danger: #dc3545;
+    --bs-light: #faf6f2;
+    --bs-dark: #000;
+    --bs-font-sans-serif: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial, "Noto Sans", "Liberation Sans", sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+    --bs-font-monospace: SFMono-Regular, Menlo, Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
+    --bs-gradient: linear-gradient(180deg, rgba(255, 255, 255, 0.15), rgba(255, 255, 255, 0));
+    --font-work-sans: "Work Sans", sans-serif;
+    --font-dm-serif-display:"DM Serif Display", serif;
+    --font-awesome : "Font Awesome 5 Pro";
+
+    /* background */
+    --bg-transparent-overlay:rgba(255, 255, 255, 0.6);
+
+    /* text */
+    --text-primary:#c1a664;
+    --text-secondary: #272727;
+    --text-success: #4ac14b;
+    --text-info: #0dcaf0;
+    --text-warning: #ffc107;
+    --text-danger: #dc3545;
+    --text-light: #faf6f2;
+    --text-white: #fff;
+    --text-dark: #000;
+    --text-dark-blue:#1c3560;
+    --text-upper:uppercase;
+    --text-capitalize:capitalize;
+    --text-xs:12px;
+    --text-sm:14px;
+    --text-base:16px;
+    --text-lg:18px;
+    --text-xl:20px;
+    --text-xxl:22px;
+
+    /* font */
+    --font-normal:400;
+    --font-medium:500;
+    --font-semi-bold:600;
+    --font-bold:700;
+    --font-italic:italic;
+
+    /* header */
+    --header-bg:var(--bs-white);
+    --header-nav-color:#1a1a1a;
+    --header-nav-text-size:14px;
+    --header-nav-font-Weight:var(--font-normal);
+    --header-nav-active-hover-color:var(--text-primary);
+    --header-nav-active-font-Weight:600;
+    --header-dropdown-bg:var(--text-primary);
+    --header-dropdown-bg-item-color:var(--text-white);
+    --header-dropdown-bg-item-font-size:15px;
+    
+    /* footer */
+    --footer-bg:var(--bs-primary);
+    --footer-nav-color:var(--text-white);
+    --footer-nav-text-size:13px;
+    --footer-nav-font-Weight:var(--font-medium);
+    --footer-nav-active-hover-color:var(--bs-secondary);
+    --footer-nav-font-Weight:var(--font-normal);
+
+
+    /* section */
+    --hero-title-text-size:42px;
+    --hero-title-text-bigger:58px;
+    --main-title-text-size:32px;
+    --main-title-text-bigger:40px;
+    --subtitle-text-size:15px;
+    --sec-body-text-size:16px;
+    
+
+    /* badge */
+    --badge-text-size:11px;
+    --badge-dark:#080808;
+    --badge-dark-text:var(--text-dark);
+    --badge-white:var(--bs-white);
+    --badge-white-text:#0a0a0a;
+    --badge-light:var(--bs-light);
+    --badge-light-text:var(--text-white);
+    --badge-padding:0 14px;
+
+    /* card */
+    --card-title-text-size:27px;
+    --card-title-text-color:var(--text-secondary);
+    --card-subtitle-text-size:var(--subtitle-text-size);
+    --card-price-tag-color:var(--text-dark);
+    --card-price-tag-text-size:28px;
+  }
+
+
+
+
+
+  /* home page* /

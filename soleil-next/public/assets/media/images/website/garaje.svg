@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="24.063" height="23.183" viewBox="0 0 24.063 23.183">
+    <defs>
+        <clipPath id="588v5zrxha">
+            <path data-name="Rectángulo 3305" style="fill:none;stroke:#272727" d="M0 0h24.063v23.183H0z"/>
+        </clipPath>
+    </defs>
+    <g data-name="Grupo 9490">
+        <g data-name="Grupo 6402">
+            <g data-name="Grupo 6401" style="clip-path:url(#588v5zrxha)">
+                <path data-name="Trazado 10062" d="M23.591 20.621V4.731A4.231 4.231 0 0 0 19.36.5H4.731A4.231 4.231 0 0 0 .5 4.731v15.89" transform="translate(-.014 -.014)" style="stroke-linecap:round;stroke-linejoin:round;fill:none;stroke:#272727"/>
+                <path data-name="Línea 1026" transform="translate(.486 4.275)" style="stroke-linecap:round;stroke-linejoin:round;fill:none;stroke:#272727" d="M0 0h23.091"/>
+                <path data-name="Línea 1027" transform="translate(.486 7.126)" style="stroke-linecap:round;stroke-linejoin:round;fill:none;stroke:#272727" d="M0 0h23.091"/>
+                <path data-name="Trazado 10063" d="M18.689 20.164H5.775a2.112 2.112 0 0 1-2.112-2.112v-1A2.112 2.112 0 0 1 5.3 14.991l.5-.115a28.448 28.448 0 0 1 12.673-.033l.683.155a2.111 2.111 0 0 1 1.644 2.06v.994a2.112 2.112 0 0 1-2.111 2.112z" transform="translate(-.1 -.385)" style="stroke-linecap:round;stroke-linejoin:round;fill:none;stroke:#272727"/>
+                <path data-name="Trazado 10064" d="M7.9 20.273v1.493a1.422 1.422 0 0 1-1.42 1.424H5.086a1.423 1.423 0 0 1-1.423-1.422v-3.607" transform="translate(-.1 -.494)" style="stroke-linecap:round;stroke-linejoin:round;fill:none;stroke:#272727"/>
+                <path data-name="Trazado 10065" d="M16.927 20.273v1.493a1.422 1.422 0 0 0 1.42 1.424h1.393a1.422 1.422 0 0 0 1.422-1.422v-3.607" transform="translate(-.46 -.494)" style="stroke-linecap:round;stroke-linejoin:round;fill:none;stroke:#272727"/>
+                <path data-name="Trazado 10066" d="m20.319 15.594-2.094-3.856a3.181 3.181 0 0 0-2.8-1.651H9.068a3.181 3.181 0 0 0-2.8 1.651l-2.094 3.856" transform="translate(-.113 -.275)" style="stroke-linecap:round;stroke-linejoin:round;fill:none;stroke:#272727"/>
+                <path data-name="Línea 1028" transform="translate(6.188 16.769)" style="stroke-linecap:round;stroke-linejoin:round;fill:none;stroke:#272727" d="M0 0h4.282"/>
+                <path data-name="Línea 1029" transform="translate(13.796 16.769)" style="stroke-linecap:round;stroke-linejoin:round;fill:none;stroke:#272727" d="M4.282 0H0"/>
+            </g>
+        </g>
+    </g>
+</svg>

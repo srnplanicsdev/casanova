@@ -1,0 +1,71 @@
+.next/                    # Next.js build output (auto-generated)
+node_modules/
+public/                   # Static assets (images, media, fonts)
+  img/
+  media/
+  website/
+src/
+  app/                    # If using App Router (Next 13+)
+    page.js               # Root page
+    layout.js             # Root layout
+    home/
+      page.js
+      components/
+        Hero.js
+        FeaturedProperty.js
+        Discover.js
+        Agents.js
+        NewPropertyCard.js
+        RegionSection.js
+        Testimony.js
+    services/
+      page.js
+    testimonials/
+      page.js
+      SelectedTestimonials.js
+    sell-with-us/
+      page.js
+    properties/
+      page.js
+      SelectedProperty.js
+      region/
+        Region.js
+    post-property/
+      page.js
+    favorites/
+      page.js
+    cookies/
+      page.js
+    contact/
+      page.js
+    advance-search/
+      page.js
+    about/
+      page.js
+  components/            # Global reusable components
+    Navbar.js
+    Footer.js
+    Sitemap.js
+    RegionCard.js
+    PropertyFilter.js
+    PropertyCard.js
+    sell-with-us/
+      SellPropertyCard.js
+    testimonials/
+      TestimonialCard.js
+  hooks/                 # Replaces Vue `utils/useLanguage.js`
+    useLanguage.js
+  utils/                 # General utilities
+    helper.js
+    api.js
+    i18n.js
+  i18n/                  # Translation helpers
+    property.mapper.js
+    helper/
+      mapToI18nKey.js
+  store/                 # Zustand/Redux/Context state management (replaces Vuex/Pinia)
+    favorite.js
+    counter.js
+  styles/
+    main.css
+    globals.css           # Next.js global styles

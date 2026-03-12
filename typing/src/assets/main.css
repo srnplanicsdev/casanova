@@ -1,0 +1,31 @@
+@import "tailwindcss";
+
+@theme {
+  --color-brand: #e2b714;
+  --color-bg: #323437;
+  --color-text: #d1d0c5;
+  --color-sub: #646669;
+  --color-error: #ca4754;
+}
+
+:root {
+  background-color: var(--color-bg);
+  color: var(--color-text);
+  font-family: 'Inter', system-ui, -apple-system, sans-serif;
+}
+
+body {
+  margin: 0;
+  display: flex;
+  place-items: center;
+  min-width: 320px;
+  min-height: 100vh;
+}
+
+#app {
+  width: 100%;
+}
+
+.mono {
+  font-family: 'Roboto Mono', monospace;
+}

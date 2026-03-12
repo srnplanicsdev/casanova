@@ -1,0 +1,37 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap');
+@import "tailwindcss";
+@tailwind utilities;
+
+@theme {
+  --color-gold: #c1a664;
+  --font-work-sans: 'Work Sans', sans-serif;
+  --font-dm-serif-display: 'DM Serif Display', serif;
+}
+
+:root {
+  font-family: var(--font-work-sans);
+}
+
+html {
+	scroll-behavior: smooth;
+	word-break: break-word;
+}
+
+::selection {
+	color: #c1a664;
+	background: #f1f1f1;
+}
+
+* {
+	scrollbar-width: thin;
+	scrollbar-color: #c1a664 #f1f1f1 !important;
+}
+
+::-webkit-scrollbar-track {
+	background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+	background-color: #c1a664;
+}

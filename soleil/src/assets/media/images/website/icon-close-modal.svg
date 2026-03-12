@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="38" height="38" viewBox="0 0 38 38">
+    <g data-name="Grupo 9116">
+        <g data-name="Elipse 16" style="stroke:#433d3a;stroke-width:1.5px;fill:none">
+            <circle cx="19" cy="19" r="19" style="stroke:none"/>
+            <circle cx="19" cy="19" r="18.25" style="fill:none"/>
+        </g>
+        <path data-name="Línea 3" transform="rotate(-45 37.185 -1.967)" style="stroke:#433d3a;stroke-width:1.5px;fill:none" d="M0 0h19"/>
+        <path data-name="Línea 746" transform="rotate(45 -8.685 20.967)" style="stroke:#433d3a;stroke-width:1.5px;fill:none" d="M0 0h19"/>
+    </g>
+</svg>

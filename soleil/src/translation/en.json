@@ -1,0 +1,510 @@
+{
+  "home": "Home",
+  "properties": "Properties",
+  "about-us": "About Us",
+  "sell-with-us": "Sell With Us",
+  "yes": "Yes",
+  "no": "No",
+  "info": "Info",
+  "new-build": "New Build",
+  "resale": "Resale",
+  "view-all-properties": "View all properties",
+  "services": "Services",
+  "testimonials": "Testimonials",
+  "mk-premium": "MK Premium properties",
+  "contact": "Contact",
+  "favorites": "Favorites",
+  "find": "Find",
+  "plot": "Plot",
+
+  "home-page": {
+    "title": "Trust in the experience",
+    "title-span": "of Soleildespagne"
+  },
+  "featured-properties": {
+    "featured": "Featured",
+    "property": "Property"
+  },
+  "discover": {
+    "discover": "Discover the Magic of the Costa Blanca",
+    "with-soleildespagne": "with Soleildespagne"
+  },
+  "agents": {
+    "name": "Martyna Kamińska",
+    "reliable": "Your reliable agent",
+    "about": "About us"
+  },
+  "regions": {
+    "regions": "Regions",
+    "discover": "Discover"
+  },
+  "testimonial": {
+    "testimonials": "Testimonials",
+    "title": "What ",
+    "title-span": "Our Clients",
+    "say": " say about us",
+    "read": "Read Testimonials"
+  },
+  "footer": {
+    "address": "Address",
+    "phone": "Phone",
+    "email": "E-mail",
+    "follow-in": "Follow in",
+    "copyright": "© 2024 Soleildespagne · Legal · Privacy · Cookies · Web map · Design & CRM: Mediaelx"
+  },
+  "properties-filter": {
+    "new-build": "New Build",
+    "resale": "Resale",
+    "towns": "Towns",
+    "types": "Types",
+    "status": "Status",
+    "bedrooms": "Bedrooms",
+    "bathrooms": "Bathrooms",
+    "price-from": "Price From",
+    "price-up-to": "Price Up To",
+    "reference": "Reference",
+    "pool": "Pool",
+    "clean": "Clean filters",
+    "advanced-filter": "Advanced filter",
+    "search": "Search properties",
+    "province": "Province",
+    "zone": "Zone",
+    "m2-built": "M² Built",
+    "m2-plot":"M² Plot",
+    "new-listing": "New Listing",
+    "orientation":"Orientation",
+    "found-property": "Found Properties",
+    "advance-search":"Advance Search"
+  },
+  "order-by": {
+    "lowest-price": "Lowest price",
+    "highest-price": "Highest price",
+    "latest-price": "Latest price"
+  },
+  "about-us-page": {
+    "title": "More About Us",
+    "our-charm": "Our Story and the charm",
+    "our-charm-span": "of the Costa Blanca",
+    "content": "MK Premium Properties was born from a deep passion for the Costa Blanca and a desire to provide exceptional real estate services. Founded by Martyna Kamińska, our company is based in Altea, a place that embodies the natural beauty and unparalleled quality of life of this region.",
+    "content-span": "Living on the Costa Blanca is a privilege: its stunning landscapes, Mediterranean climate, and vibrant community make it the perfect location to find your ideal home.",
+    "content-footer": "At MK Premium Properties, we don’t just help you find a property; we invite you to be part of a fulfilling and enriching life in this Mediterranean paradise.",
+    "services": {
+      "title": "Specialized services ",
+      "title-span": "for successful buying or selling",
+      "content": "MK Premium Properties was founded by Martyna Kamińska, driven by a deep passion for the Costa Blanca and a commitment to outstanding real estate services. Based in Altea, we are immersed in the region’s natural beauty and exceptional quality of life. Living on the Costa Blanca means enjoying breathtaking landscapes, a pleasant Mediterranean climate, and a vibrant community.",
+      "content-span": "At MK Premium Properties, we help you find more than just a property; we offer a gateway to a fulfilling lifestyle in this Mediterranean paradise."
+    },
+    "agent": {
+      "hello": "Hello",
+      "name": "I’m Martyna Kamińska.",
+      "content": "After over 10 years in the real estate industry, I decided to start MK Premium Properties to share my passion for the Costa Blanca and my commitment to exceptional customer service.",
+      "content-span": "I’ve had the honor of working with many wonderful people throughout my career, and my goal is always to provide a personal and professional touch. In every transaction, I strive to understand my clients’ needs and desires, offering a tailored experience that goes beyond just buying or selling a property.",
+      "content-footer": "I’m here to help you find not just a house, but a place where you truly feel at home."
+    }
+  },
+  "sell-with-us-page": {
+    "title": "Sell with us",
+    "reasons": "9 Reasons to choose ",
+    "reasons-span": "MK Premium Properties",
+    "content": "At MK Premium Properties, we understand that selling your home is a significant decision. We offer comprehensive and expert services designed to maximize your property’s value and streamline the selling process.",
+    "content-span": "Here are 9 reasons why you should choose us to sell your home:",
+    "reasons-list": {
+      "accurate-valutation": {
+        "title": "Accurate Valuation",
+        "description": "We provide a detailed and precise valuation of your property based on an in-depth market analysis. This ensures that your home is priced competitively to attract serious buyers and achieve the best possible sale price."
+      },
+      "effective-marketing": {
+        "title": "Effective Marketing",
+        "description": "Our marketing strategies are designed to showcase your property to a wide audience. We utilize high-quality photos, engaging property descriptions, and targeted advertising across multiple platforms to attract potential buyers."
+      },
+      "extensive-network": {
+        "title": "Extensive Network",
+        "description": "We leverage our extensive network of local and international contacts, connecting with a broad pool of qualified buyers. This increases the visibility of your property and accelerates the process of finding the right buyer."
+      },
+      "expert-negotiation": {
+        "title": "Expert Negotiation",
+        "description": "We excel in negotiation, working diligently to secure the most favorable terms for your property sale. We aim to achieve the best possible deal by expertly handling negotiations on your behalf."
+      },
+      "complete-legal-guidance": {
+        "title": "Complete Legal Guidance",
+        "description": "We offer comprehensive legal support to navigate the complexities of property transactions. From handling paperwork to ensuring compliance with local regulations, we manage all legal aspects to facilitate a smooth and trouble-free sale."
+      },
+      "professional-presentation": {
+        "title": "Professional Presentation",
+        "description": "We ensure your property is presented in the best light by coordinating professional staging and arranging viewings. A well-prepared home attracts more interest and can significantly increase its market value."
+      },
+      "total-transparency": {
+        "title": "Total Transparency",
+        "description": "We maintain clear and open communication throughout the selling process. You will be kept informed of every development, ensuring that you are always aware of what is happening with your property."
+      },
+      "efficient-management": {
+        "title": "Efficient Management",
+        "description": "Our efficient management of all administrative and logistical tasks helps streamline the selling process. We handle the details so you can focus on preparing for the next chapter of your life."
+      },
+      "personalized-service": {
+        "title": "Personalized Service",
+        "description": "We provide a tailored approach to meet your specific needs and goals. Our personalized service ensures that your unique preferences are considered, making the selling experience as smooth and satisfactory as possible."
+      }
+    },
+    "content-footer": "To get started with selling your property, we invite you to complete the form with your property’s details. You will receive a thorough valuation and expert advice to guide you through the process. At MK Premium Properties, we are dedicated to making your property sale a successful and rewarding experience."
+  },
+  "about-card": {
+    "about": "About",
+    "you": "You",
+    "us": "us",
+    "property": "the property",
+    "about-the-policy": " Check the box to contact us and agree to your information being used according to our",
+    "privacy-policy": "Privacy Policy",
+    "information": "you will automatically be added to our mailing list, but you can opt out at any time",
+    "send": "Send",
+    "policy": "Data Controller: MK Premium Properties, Purpose of processing: Management and control of services offered through the Real Estate Services Website, Sending information via newsletter and other means, Legal basis: Consent, Recipients: Data will not be transferred, except for accounting purposes, Rights of data subjects: Access, rectification and erasure of data, request data portability, objection to processing and request restriction thereof, Source of data: The data subject, Additional Information: Additional and detailed information on data protection can be found here.",
+    "name": "Name",
+    "email": "Email",
+    "type": "Type",
+    "phone": "Phone",
+    "message": "Message",
+    "features": "Features",
+    "price": "Price",
+    "location": "Location",
+    "description": "Description",
+    "bathrooms": "Bathrooms",
+    "bedroom": "Bedrooms"
+  },
+  "service-page": {
+    "our": "Our",
+    "services": "Services",
+    "comprehensive": "Comprehensive and efficient",
+    "peace-of-mind": "for your peace of mind",
+    "content": "At MK Premium Properties, we offer a full range of services designed to streamline every stage of buying, selling, and renting properties on the Costa Blanca. Our goal is to ensure a smooth and satisfying real estate experience for every client.",
+    "services-list": {
+      "complete-property-handling": {
+        "title": "Complete Property Handling",
+        "description": "MK Premium Properties handles all paperwork and administrative tasks for buying or selling a property, ensuring a smooth and efficient process so clients can enjoy their new home on the Costa Blanca with peace of mind."
+      },
+      "notary-services": {
+        "title": "Notary Services",
+        "description": "We facilitate all the required documentation for signing before a notary. Understanding that bureaucratic procedures can be complex, we provide detailed advice to ensure clients make the best decisions for their peace of mind and well-being."
+      },
+      "document-translation-services": {
+        "title": "Document Translation Services",
+        "description": "For international clients, we ensure that all documentation is available in the required language. This facilitates clear communication and understanding throughout the buying or selling process, providing a comfortable and straightforward experience."
+      },
+      "nie-residence-permit-bank-account-assistance": {
+        "title": "NIE, Residence Permit, and Bank Account Assistance",
+        "description": "For those coming from abroad, we assist with obtaining the Número de Identificación de Extranjero (NIE), residence permits, and opening bank accounts in Spain, ensuring a secure and hassle-free stay on the Costa Blanca."
+      },
+      "property-promotion": {
+        "title": "Property Promotion",
+        "description": "We promote properties on national and international real estate portals to attract buyers quickly. Additionally, we use extra marketing strategies to highlight the property and attract the attention of potential buyers."
+      },
+      "post-sale-property-management": {
+        "title": "Post-Sale Property Management",
+        "description": "After the sale, we conduct follow-ups to formalize any necessary changes in utilities, cadastral ownership, taxes, and other administrative matters, ensuring a seamless transition for new owners."
+      },
+      "recommendation-of-a-certain-lawyer-accountant-and-certified-translator": {
+        "title": "Recommendation of a Certain Lawyer, Accountant, and Certified Translator",
+        "description": "We connect you with trusted professionals to ensure that all legal, fiscal, and translation processes are smooth and secured."
+      },
+      "obtaining-licenses-and-certificates": {
+        "title": "Obtaining Licenses and Certificates",
+        "description": "We facilitate contact with experts who efficiently handle the process of obtaining tourist licenses, energy certificates, second occupancy licenses, topographical surveys, and much more."
+      },
+      "recommendation-of-a-technical-architect-construction-team-and-interior-designer": {
+        "title": "Recommendation of a Technical Architect, Construction Team, and Interior Designer",
+        "description": "We connect you with specialists in architecture and urban planning, renovation teams, and renowned interior designers who guarantee exceptional results in every project."
+      },
+      "management-of-cleaning-home-staging-and-vacation-rentals": {
+        "title": "Management of Cleaning, Home Staging, and Vacation Rentals",
+        "description": "We work with specialized companies in cleaning, home staging, and vacation rental management to maximize the potential of your property."
+      },
+      "car-rental-services-parking-transportation-and-moving-companies": {
+        "title": "Car Rental Services, Parking, Transportation, and Moving Companies",
+        "description": "We offer access to reliable car rental companies, long-term parking, airport transportation, and moving services to ensure everything is set up from day one."
+      },
+      "list-of-recommended-restaurants-and-tourist-attractions": {
+        "title": "List of Recommended Restaurants and Tourist Attractions",
+        "description": "We provide you a guide of restaurants and tourist spots highly rated by our clients so you can fully enjoy the area."
+      }
+    },
+    "partner": "Your Ideal Partner",
+    "costa-blanca": "on the Costa Blanca",
+    "partner-content": "At MK Premium Properties, our commitment is to provide professional and personalized service tailored to each client’s unique needs. We invite you to explore our Testimonials section, where past clients share their experiences and feedback about the exceptional service and care they received. Their stories reflect our dedication to ensuring a seamless and satisfying real estate journey.",
+    "partner-content2": "We encourage you to reach out to us to begin your real estate adventure on the Costa Blanca. With MK Premium Properties, you can be assured that every transaction will be managed with the utmost confidence and attention to detail. Discover why our clients trust us to turn their property dreams into reality.",
+    "read-testimonials": "Read Testimonials"
+  },
+  "testimonials-page": {
+    "title": "What our clients",
+    "subtitle": "say about us",
+    "read-more": "Read more",
+    "clients": {
+      "joanna": {
+        "name": "Joanna B.",
+        "description": "We had the opportunity to work with Martyna in Tenerife a few years ago. I really appreciate her dedication and passion for her work as well as her full professionalism. He is a competent, honest person who always puts the client's needs first. We are very satisfied and highly recommend cooperation with Martyna."
+      },
+      "krzysztof": {
+        "name": "Krzysztof Chrzan",
+        "description": "We would like to thank Martyna for her help in purchasing the property. Thanks to personal contacts, we found the property, but it was Martyna who took care of all the logistic and formal matters. He knows the realities of the Spanish real estate market very well. She always supported us kindly, even though we were aware that she was dealing with many things at the same time, she was able to find time for us. He has excellent knowledge of where to buy equipment and knows which trusted contractor to recommend. We are aware of the importance of our strategic and economic decision, which is always associated with emotions, sometimes carefully hidden - Martyna extinguished them with her professionalism. Martyna, we would like to thank you and all the people around you, especially your children, because we regret that we had to ask for help when family life was flourishing. We recommend Martyna with full responsibility.\n\n\"In cooperation with the INMOBRISA real estate agency\""
+      },
+      "sylwester": {
+        "name": "Sylwester Trybulec",
+        "description": "It's been a long time since I met such a specific and prepared person as Mrs. Martyna. From the moment of arranging a lawyer to settling all matters related to the apartment, i.e. transferring all utilities, she is available for every inquiry. He has contacts with specialists in various professions, which helps him function in a foreign country. I recommend\"In cooperation with the INMOBRISA real estate agency\""
+      },
+      "marlena": {
+        "name": "Marlena Przygoda",
+        "description": "I highly recommend cooperation with Martyna. He is a trustworthy, hard-working and honest person. Last year we entrusted her with managing our affairs in Spain. By the time they were completed, Martyna had our powers of attorney and acted on our behalf in offices, banks and companies. Everything went perfectly. He has knowledge of all formalities that must be completed to buy real estate. It provides support not only before and during the purchase, but also after. You can write to her, call her, she will always answer, advise and help. Her commitment, resourcefulness and passion are invaluable. Thank you Martynka!\n\n\"In cooperation with the INMOBRISA real estate agency\""
+      },
+      "poll": {
+        "name": "Poll Viola",
+        "description": "Great cooperation, total professionalism. \"In cooperation with the INMOBRISA real estate agency\""
+      }
+    }
+  },
+  "favorites-page": {
+    "found": "Found",
+    "remove-all-favorites": "Remove all Favorites",
+    "send-properties": "Send Properties",
+    "cancel": "cancel",
+    "confirm": "confirm",
+    "name": "Name",
+    "email": "Email",
+    "message": "Message",
+    "privacy-policy": "Privacy Policy",
+    "send": "Send",
+    "no-properties-found": "No properties found that match your search."
+  },
+  "property": {
+    "notify-offer": "Notify Offer",
+    "notify": "Notify",
+    "make-enquiry": "Make Enquiry",
+    "enquiry": "Enquiry",
+    "photos": "All photos",
+    "map": "Map",
+    "finances": "Finances",
+    "back": "Back",
+    "calculate-mortgage": "Calculate Your Mortgage",
+    "close": "Close",
+    "calculate": "Calculate",
+    "price": "Property Price",
+    "interest-rate": "Interest Rate",
+    "years": "Years",
+    "year-construction": "Year of construction",
+    "delivery-date": "Delivery date",
+    "duration": "Duration",
+    "monthly-payment": "Your monthly payments will be:",
+    "luxury": "LUXURY NEW BUILD VILLA IN ALTEA HILLS",
+    "luxury-description": "LUXURY NEW BUILD VILLA IN ALTEA HILLS New Build Luxury Villa located in Altea Hills. Villa under construction in Altea Hills with 24-hour surveillance with panoramic sea views. Villa distributed over three floors with a total of 3 bedrooms, 3 bathrooms, guest toilet, spacious living-dining room and designer kitchen equipped. In the basement there is a garage for two cars and entrance to the house. Villa build on the plot of 836.26 m2 with 100% privacy, landscaped with bbq. Altea is one of the most charming villages on the Costa Blanca. It also holds the official title of Cultural Capital of the Valencian Community. Altea has a privileged location with both sea and beach, as well as mountain and river. Altea has more than 8 km of coastline, alternating cliffs and small coves with stretches of beach on flat terrain. Alicante airport located 50 minutes drive away and Valencia airport is 1,5hour drive away.",
+    "more-info": "More info",
+    "less-info": "Less info",
+    "built": "Built",
+    "usable": "Usable",
+    "home": "Home",
+    "plot": "Plot",
+    "pool": "Pool",
+    "distance-to-beach": "Distance to beach",
+    "private-pool": "Private pool",
+    "gated": "Gated",
+    "views": "View",
+    "near-schools": "Near Schools",
+    "air-conditioning": "Air Conditioning",
+    "garden": "Garden",
+    "sea": "Sea",
+    "double-bedrooms": "Double Bedrooms",
+    "number-of-parking-spaces": "Number of Parking Spaces",
+    "solarium": "Solarium",
+    "parking": "Parking",
+    "meters": "Meters",
+    "double-garage": "Double Garage",
+    "terrace": "Terrace",
+    "bbq": "BBQ",
+    "under-build-basement": "Under-Build / Basement",
+    "feature-location": "Location: Coastal, Mountain, Urbanisation",
+    "location": "Location",
+    "beach": "Beach",
+    "useable-build-space": "Useable Build Space",
+    "make": "Make an",
+    "similar": "Similar",
+    "properties": "Properties",
+    "features": "Features",
+    "your-agent": "Your Agent",
+    "contact-whatsapp": "Contact by WhatsApp"
+  },
+  "cookies-page": {
+    "title": "Cookies Policy",
+    "background": {
+      "title": "BACKGROUND",
+      "description": "In accordance with Spanish regulations governing the use of cookies in relation to the provision of electronic communications services, as set out in Royal Decree-Law 13/2012 of March 30, we inform you about the cookies used on the MK Premium Properties website and the reason for their use. Furthermore, we inform you that by browsing the website you are consenting to their use."
+    },
+    "what-are-cookies": {
+      "title": "WHAT ARE COOKIES?",
+      "description": "A cookie is a file that is downloaded to your computer when you access certain websites. Cookies allow a website, among other things, to store and retrieve information about a user's browsing habits or their device, and, depending on the information they contain and how you use your device, they can be used to recognize the user. Cookies are associated only with an anonymous user and their computer or device and do not provide any information that would allow the identification of your personal data."
+    },
+    "types-of-cookies": {
+      "title": "TYPES OF COOKIES",
+      "first-party": {
+        "title": "First-party cookies",
+        "description": "These are those that are sent to the user's terminal equipment from a computer or domain managed by the publisher itself and from which the service requested by the user is provided."
+      },
+      "third-party": {
+        "title": "Third-party cookies",
+        "description": "These are those that are sent to the user's terminal equipment from a computer or domain that is not managed by the publisher, but by another entity that processes the data obtained through the cookies."
+      },
+      "session": {
+        "title": "Session cookies",
+        "description": "These are a type of cookie designed to collect and store data while the user accesses a website."
+      },
+      "persistent": {
+        "title": "Persistent cookies",
+        "description": "These are a type of cookie in which the data remains stored on the terminal and can be accessed and processed for a period defined by the cookie owner, which can range from a few minutes to several years."
+      },
+      "analytics": {
+        "title": "Analytics cookies",
+        "description": "These cookies, whether processed by us or by third parties, allow us to quantify the number of users and thus perform statistical analysis of how users utilize the offered service. This involves analyzing your browsing activity on our website in order to improve the products or services we offer you."
+      },
+      "advertising": {
+        "title": "Advertising cookies",
+        "description": "These are those that allow the most efficient management of advertising spaces that the publisher may have included on a website, application or platform from which the requested service is provided, based on criteria such as the content edited or the frequency with which the ads are shown."
+      },
+      "behavioral-advertising": {
+        "title": "Behavioral advertising cookies",
+        "description": "These cookies allow for the most effective management of advertising spaces that the publisher may have included on a website, application, or platform from which the requested service is provided. These cookies store information about user behavior obtained through continuous observation of browsing habits, allowing for the development of a specific profile to display advertising based on that profile. Likewise, when you visit a website or open an email containing an advertisement or promotion for our products or services, a cookie may be installed in your browser. This cookie helps us to subsequently show you advertising related to your previous searches and to monitor our advertisements, for example, by tracking the number of times they are viewed, where they appear, and at what time they are viewed."
+      }
+    },
+    "types-of-cookies-used-by-this-website": {
+      "title": "TYPES OF COOKIES USED BY THIS WEBSITE",
+      "description": "The cookies used on our website are session and third-party cookies. They allow us to store and access information related to language, browser type, and other general user-defined characteristics, as well as to track and analyze user activity in order to make improvements and provide our services more efficiently and in a more personalized way. MK Premium Properties does not use advertising or behavioral advertising cookies.",
+      "description-span": "The use of cookies offers advantages in the provision of services within what is known as the information society, since it facilitates user navigation and access to the different services offered by this website; it prevents the user from having to configure the predefined general characteristics each time they access the website; it favors the improvement of the operation and services provided through this website, after the corresponding analysis of the information obtained through the installed cookies.",
+      "cookies-list": {
+        "cookie-name": "Cookie Name",
+        "cookie-type": "Cookie Type",
+        "purpose": "Purpose",
+        "expiration": "Expiration",
+        "class": "Class",
+        "years": "years",
+        "minutes": "minutes",
+        "months": "months",
+        "end-of-session": "At the End of the Session",
+        "users-and-sessions": "It is used to distinguish users and sessions.",
+        "new-sessions-or-visits": "It is used to determine new sessions or visits.",
+        "configured-for-use-with-urchin": "It is configured for use with Urchin.",
+        "stores-the-origin": "Stores the origin or campaign that explains how the user arrived at the website.",
+        "third-party": "Third-Party (Google Analytics)",
+
+        "not-exempt": "Not Exempt"
+      }
+    },
+
+    "revocation-and-deletion-of-cookies": {
+      "title": "REVOCATION AND DELETION OF COOKIES",
+      "description": "At any time you can access your browser settings to accept or reject all cookies, or select which cookies you allow and which you do not, by following one of the procedures below, depending on the browser you use:",
+      "google-chrome": {
+        "title": "Google Chrome (in the Tools menu)",
+        "description": "Settings > Show advanced settings > Privacy (Content settings) > Cookies More information:"
+      },
+      "microsoft-internet-explorer": {
+        "title": "Microsoft Internet Explorer (in the Tools menu)",
+        "description": "Internet Options > Privacy > Advanced More information:"
+      },
+      "firefox": {
+        "title": "Firefox",
+        "description": "Options > Privacy > Cookies More information:"
+      },
+      "safari": {
+        "title": "Safari, iPad and iPhone",
+        "description": "Preferences > Privacy Learn more:"
+      },
+      "opera": {
+        "title": "Opera",
+        "description": "Settings > Options > Advanced > Cookies More information:"
+      }
+    },
+    "third-party-service-providers": {
+      "title": "THIRD-PARTY SERVICE PROVIDERS",
+      "description": "Specifically, the third-party service providers with whom we have contracted services that require the use of cookies are:",
+      "supplier": "Supplier",
+      "purpose-of-the-service-and-the-cookie": "Purpose of the Service and the Cookie",
+      "supplier-information": "Supplier Information",
+      "google-analytics": {
+        "title": "Google Analytics",
+        "description": "Statistical analysis of the website at the level of counting visitors, pages visited, keywords used and similar."
+      }
+    }
+  },
+  "cookies": {
+    "title": "Cookies & Privacy",
+    "description": "Cookies enable you to personalize your experience on our site, tell us which parts of our websites people have visited, help us measure the effectiveness of ads and web searches, and give us insights into user behavior so we can improve our communications and products.",
+    "more-information": "More information",
+    "accept-all": "Accept all",
+    "customise-cookies": "Customise cookies",
+    "reject-cookies": "Reject cookies",
+    "necessary": "Necessary",
+    "site-preferences": "Site Preferences",
+    "analytics": "Analytics",
+    "marketing": "Marketing"
+  },
+  "api": {
+    "property": {
+      "sunnyApartment": "Sunny Apartment",
+      "cozyBungalow": "Cozy Bungalow",
+      "modernVilla": "Modern Villa",
+      "penthouseSeaView": "Penthouse with Sea View",
+      "luxuryTownhouse": "Luxury Townhouse",
+      "coastalBungalow": "Coastal Bungalow",
+      "newConstruction": "New Construction",
+      "elegantApartment": "Elegant Apartment",
+      "spaciousDuplex": "Spacious Duplex",
+      "modernPenthouse": "Modern Penthouse",
+      "cozyVilla": "Cozy Villa",
+      "seasideBungalow": "Seaside Bungalow",
+      "modernApartment": "Modern Apartment",
+      "luxuryVilla": "Luxury Villa"
+    },
+
+    "propertyType": {
+      "apartment": "Apartment / Flat",
+      "bungalow": "Bungalow",
+      "villa": "Villa",
+      "penthouse": "Penthouse",
+      "townhouse": "Townhouse",
+      "duplex": "Duplex"
+    },
+
+    "badge": {
+      "seaView": "Sea View",
+      "modernKitchen": "Modern Kitchen",
+      "privateGarden": "Private Garden",
+      "privatePool": "Private Swimming Pool",
+      "privateForest": "Private Forest",
+      "terrace": "Terrace",
+      "rooftopTerrace": "Rooftop Terrace",
+      "cityCenter": "City Center",
+      "modernDesign": "Modern Design",
+      "parking": "Parking",
+      "greatLocation": "Great Location",
+      "balcony": "Balcony"
+    },
+
+    "status": {
+      "title": "Status",
+      "newBuild": "New Build",
+      "resale": "Resale"
+    },
+
+    "town": {
+      "alcantarilla": "Alcantarilla",
+      "archena": "Archena",
+      "castalla": "Castalla",
+      "aguilas": "Águilas",
+      "benidorm": "Benidorm",
+      "bigastro": "Bigastro",
+      "algorfa": "Algorfa",
+      "relleu": "Relleu",
+      "denia": "Denia",
+      "jumilla": "Jumilla"
+    },
+
+    "boolean": {
+      "yes": "Yes",
+      "no": "No"
+    }
+  }
+}

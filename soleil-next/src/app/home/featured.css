@@ -1,0 +1,14 @@
+.custom-pagination .page-box {
+  width: 2.5rem;
+  height: 2.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 10px;
+  cursor: pointer;
+}
+
+.custom-pagination .page-box.active {
+
+  color: #c1a664;
+}
